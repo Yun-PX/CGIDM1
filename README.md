@@ -9,7 +9,7 @@ Data-driven methods for soft sensor modeling have become increasingly pervasive 
     <img src="./asset/framework.png" width=90%/>
 </div>
 <div  align="center">    
-      Figure 1 :Architecture of the CGIDM-DTransformer Mode .
+      Figure 1 :Architecture of the CGIDM-DTransformer Model .
 </div>
 
 ## Dependencies
