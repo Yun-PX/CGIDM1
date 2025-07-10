@@ -39,15 +39,6 @@ Data-driven methods for soft sensor modeling have become increasingly pervasive 
 
 ---
 
-## Baselines
-
-| `--setting` | Method |
-|-------------|----------------------------------------------|
-| `no`        | Vanilla backbone (no imbalance remedy)       |
-| `reweight`  | Class-balanced loss re-weighting             |
-| `upsampling`| Raw-domain over-sampling                     |
-| `embed_up`  | Embed-SMOTE (latent over-sampling)           |
-| `gcidm` _(default)_ | **GCIDM-DTransformer**               |
 
 ## Quick Example — Debutanizer
 ### 1 · Train
